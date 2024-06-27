@@ -11,7 +11,8 @@ Generated via Claude in 30 minutes as a technology evaluation.
 
 ## Initial Prompt used: 
 
-```make me a tailwind  shadcn astro page that can manage ollama by providing a modern, highly usable UI for it's API actions
+```
+make me a tailwind  shadcn astro page that can manage ollama by providing a modern, highly usable UI for it's API actions
 Here's the API doc
 ```
 Attached: [Ollama API page from github](https://github.com/ollama/ollama/blob/main/docs/api.md)
