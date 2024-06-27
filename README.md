@@ -2,7 +2,7 @@ A React Component and optional Astro Page implementing a simple Ollama web-inter
 
 Generated via Claude in 30 minutes as a technology evaluation.
 
-![Video](https://img.youtube.com/vi/oSyLLhmLgNs/0.jpg)](https://www.youtube.com/watch?v=oSyLLhmLgNs)
+[![Video](https://img.youtube.com/vi/oSyLLhmLgNs/0.jpg)](https://www.youtube.com/watch?v=oSyLLhmLgNs)
 
 ![image](https://github.com/georgzoeller/ollama-web-interface/assets/2640999/ed82930e-46e1-4a81-9360-6b1c91b41d21)
 ![image](https://github.com/georgzoeller/ollama-web-interface/assets/2640999/06b32e82-4a8b-466f-8c36-9460dfb887f7)
