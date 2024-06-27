@@ -37,7 +37,7 @@ import {
 } from '@/lib/ollama_api';
 
 import type {  Model,
-  ModelDetails} from '@/lib/ollama_api';
+  ModelDetails} from './ollama_api';
 
 const OllamaManagementUI = () => {
   const [server, setServer] = useState('http://localhost');
